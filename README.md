@@ -35,4 +35,4 @@ The repository includes solutions for:
     Summarizing expenses month by month.
 
 ## Screenshots
-[ Open Screenshots Folder](./Screesnhots/)
+[Open Screenshots Folder](./Screesnhots/)
